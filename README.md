@@ -89,7 +89,7 @@ displayed correctly for any of your repos, update `devicons` mapping in `script.
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://arupmandal.github.io/arupmandalV2).
+Open `index.html` in your favorite browser or visit [https://arupmandal.github.io/arupmandalV2](https://arupmandal.github.io/arupmandalV2).
 
 ## How it was built
 
