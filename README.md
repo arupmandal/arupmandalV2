@@ -2,23 +2,23 @@
 
 <h1><a href="https://arupmandal.github.io/arupmandalV2">Projects</a></h1>
 
-<a href="https://github.com/2KAbhishek/projects/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/projects?style=flat&color=eee&label="> </a>
+<a href="https://github.com/arupmandal/arupmandalV2/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/arupmandal/arupmandalV2?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/projects/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/projects?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/arupmandal/arupmandalV2/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/arupmandal/arupmandalV2?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/projects?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/arupmandal/arupmandalV2/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/arupmandal/arupmandalV2?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/projects/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/projects?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/arupmandal/arupmandalV2/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/arupmandal/arupmandalV2?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/projects?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/arupmandal/arupmandalV2/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/arupmandal/arupmandalV2?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/projects?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/arupmandal/arupmandalV2/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/arupmandal/arupmandalV2?style=flat&color=e06c75&label="> </a>
 
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 
@@ -39,7 +39,7 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://arupmandal.github.io/#V2) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://arupmandal.github.io/#arupmandalV2) as inspiration.
 
 ## Getting Projects
 
