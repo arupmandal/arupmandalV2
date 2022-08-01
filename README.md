@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/projects">Projects</a></h1>
+<h1><a href="https://arupmandal.github.io/arupmandalV2">Projects</a></h1>
 
 <a href="https://github.com/2KAbhishek/projects/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/projects?style=flat&color=eee&label="> </a>
@@ -39,14 +39,14 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://2kabhishek.github.io/#projects) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://arupmandal.github.io/#V2) as inspiration.
 
 ## Getting Projects
 
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/arupmandal/arupmandalV2
 cd projects
 ```
 
@@ -89,7 +89,7 @@ displayed correctly for any of your repos, update `devicons` mapping in `script.
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://2kabhishek.github.io/projects).
+Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://arupmandal.github.io/arupmandalV2).
 
 ## How it was built
 
@@ -112,6 +112,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/projects">Source</a> | <a href="https://2kabhishek.github.io/projects">Website</a>
+<a href="https://github.com/arupmandal/arupmandalV2">Source</a> | <a href="https://arupmandal.github.io/arupmandalV2">Website</a>
 
 </div>
